@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UrCodeBuddy3
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...python,html,eetc
+- 🌱 I’m currently learning ...python,html,etc
 - 💞️ I’m looking to collaborate on ...spyweres,web bilding,etc
 - 📫 How to reach me ...attoejoshua@gmail.com
 
